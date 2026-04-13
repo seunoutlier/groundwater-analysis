@@ -4,7 +4,6 @@
 
 A data-driven hydrogeological study that combines time-series analysis, machine learning forecasting, and unsupervised clustering to identify **Aquifer Stress Regimes** — an objective framework to track when urban abstraction pushes groundwater systems toward critical thresholds.
 
-![Time Series Overview](outputs/figures/01_time_series_overview.png)
 
 ## Key Findings
 
